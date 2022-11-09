@@ -12,7 +12,5 @@ class User {
 }
 
 var userone = new User("john@gmmail.com", "john");
-var usertwo = new User("james@gmail.com", "james");
 
 userone.login();
-usertwo.logout();
