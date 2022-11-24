@@ -13,3 +13,4 @@ class User {
 
 var userone = new User("james@gmail.com", "james");
 userone.login();
+userone.logout();
